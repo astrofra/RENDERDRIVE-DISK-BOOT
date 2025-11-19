@@ -1,0 +1,53 @@
+************************
+* RenderDrive Boot log *
+************************
+Mounting floppy disk [  OK  ]
+Loading RenderDrive Environment [  OK  ]
+RenderDrive Initialising...
+Inserting ethernet module [  OK  ]
+Installing rdrive software [  OK  ]
+Using static network definitions for eth0 [  OK  ]
+Writing bootlog to floppy [  OK  ]
+**************
+* rdenv File *
+**************
+IPADDR=192.168.0.15
+NETMASK=255.255.255.0
+GATEWAY=********************
+* Network Settings *
+********************
+Hardware Address: 00:C0:F0:40:F5:D0
+IP Address: 192.168.0.15
+Broadcast: 192.168.1.255
+Netmask: 255.255.255.0
+Gateway: None specified
+****************
+* DNS Settings *
+****************
+Domain name: None specified
+No Nameservers specified
+************************
+* RenderDrive Software *
+************************
+rd3000-2.5-B001201
+rd3000-asm-2.5-1
+rd3000-ui-2.5-1
+rpmax-shaders-2.2-2
+*******************
+* Disk and Memory *
+*******************
+Disk Space: 8824512 kBytes
+Physical Memory: 776688 kBytes
+************************
+* Module Configuration *
+************************
+RenderDrive module present
+Tulip module present
+SCSI module present
+******************
+* Address Spaces *
+******************
+IO Address       : 0xe000
+Space 0 Address  : 0xffad8000
+Space 1 Address  : 0xffadec00
+Register Address : 0xffadee00
